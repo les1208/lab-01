@@ -1,0 +1,28 @@
+header {
+	background: sienna;
+	color: seashell;
+}
+
+nav ul {
+	background: #555;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li {
+	padding: .5rem;
+}
+
+nav ul li:hover {
+	background: silver;
+}
+
+div {
+	background: papayawhip;
+	margin: 1rem;
+}
+
+footer {
+	background: #111;
+	color: #eee;
+}
