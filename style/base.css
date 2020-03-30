@@ -1,11 +1,27 @@
 * {
 	box-sizing: border-box;
+	background-color: lavender;
 }
 
 body {
-	font-size: 16px;
+	text-align: center;
+	display: inline-block;
 }
 
 html {
-	color: peachpuff;
+	margin: auto;
+	width: 482px;
 }
+
+@media (min-width:768px) {
+
+	html {
+		margin: auto;
+		width: 962px;
+		border: solid saddlebrown 2px;
+	}
+}
+
+
+
+
